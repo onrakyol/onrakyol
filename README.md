@@ -1,9 +1,6 @@
 ### Hi there 👋 
 
-<img src="https://i.imgur.com/MvMxQ1a.gif" width="480" height="251">
-<img src="https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47wab268j5e6h0pu1pwjsivwasobwxtr7de1i137t2&rid=giphy.gif&ct=g" width="480" height="251">
-
-
+<img src="https://i.imgur.com/MvMxQ1a.gif" width="480" height="251"><img src="https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47wab268j5e6h0pu1pwjsivwasobwxtr7de1i137t2&rid=giphy.gif&ct=g" width="480" height="251">
 - 🔭 I’m currently working on Ministry of Justice in Turkey,
 - 🌱 I’m currently learning Python, JavaScript,
 - 📫 You can reach me: onur_akyol_12@hotmail.com or oa.banner@gmail.com
