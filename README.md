@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- <img src="https://i.imgur.com/MvMxQ1a.gif" width="auto">
+- <img src="https://i.imgur.com/MvMxQ1a.gif" width="480" height="251">
 <iframe src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt">via GIPHY</a></p>
 - 🔭 I’m currently working on Ministry of Justice in Turkey,
 - 🌱 I’m currently learning Python, JavaScript,
