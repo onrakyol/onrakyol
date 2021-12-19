@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 <img src="https://i.imgur.com/MvMxQ1a.gif" width="480" height="251">
-<img src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="480" height="251">
+<img src="https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47wab268j5e6h0pu1pwjsivwasobwxtr7de1i137t2&rid=giphy.gif&ct=g" width="480" height="251">
 
 
 - 🔭 I’m currently working on Ministry of Justice in Turkey,
